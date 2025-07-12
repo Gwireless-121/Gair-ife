@@ -1,0 +1,6 @@
+// Example button to put on your homepage to access YouTube
+
+ElevatedButton(
+  onPressed: () => Navigator.pushNamed(context, '/youtube'),
+  child: Text('Watch YouTube'),
+)

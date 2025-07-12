@@ -1,0 +1,4 @@
+// Example usage in your Flight Information page:
+Text(AppState.route),
+Text(AppState.remainingTime),
+Text(AppState.message),
